@@ -71,13 +71,13 @@ Click Sophia logo to Join Support Group 2ðŸ‘‡
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ichu786780/Sophia-Mwol)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SPENZERX3/Sophia.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SP.git
      </div>
 <br>
 <br >
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
 ```
-bash <(curl -L https://t.ly/tHxh)
+bash <(curl -L httULGGGFps://t.ly/tHxh)
 ``` 
   
 ### The Hard Method
